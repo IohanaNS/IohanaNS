@@ -32,7 +32,7 @@ This project is part of my path toward senior-level engineering.
 ## 🛠️ Tech Stack
 
 **Backend**
-- C# / .NET 10
+- C# / .NET
 - ASP.NET Core
 - Entity Framework Core
 
