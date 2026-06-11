@@ -8,26 +8,13 @@ Currently working with C# and .NET, with a strong interest in software architect
 
 ## 🚀 Current Project
 
-### LEGI
+### BukiHub
 A personal project designed to deepen my skills in software architecture and domain modeling.
 
 - Applying Domain-Driven Design (DDD) in practice
 - Structuring the system using Clean Architecture principles
 - Focusing on separation of concerns and maintainability
 - Dealing with concerns like data consistency, service boundaries and asynchronous communication
-
-This project is part of my path toward senior-level engineering.
-
----
-
-## 🧠 What I care about
-
-- Writing code that remains understandable after multiple iterations
-- Making domain logic explicit instead of implicit
-- Containing complexity through clear boundaries
-- Improving technical judgment through real trade-offs
-
----
 
 ## 🛠️ Tech Stack
 
